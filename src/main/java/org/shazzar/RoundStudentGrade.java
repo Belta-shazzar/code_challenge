@@ -22,7 +22,7 @@ public class RoundStudentGrade {
     System.out.print("The new grades are: " + newGrades);
   }
 
-  class Solution {
+  static class Solution {
     public static List<Integer> gradingStudents(List<Integer> grades) {
       // Write your code here
       List<Integer> roundedGrades = new ArrayList<>();
