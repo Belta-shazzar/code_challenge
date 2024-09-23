@@ -1,3 +1,5 @@
+package org.shazzar;
+
 import java.util.List;
 
 public class CountApplesAndOranges {
